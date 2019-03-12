@@ -1,5 +1,5 @@
 {
-    "is_debug": true,
+    "is_debug": false,
     "canvas_id": "canvas",
     "context": {
         "alpha": true,
